@@ -1,10 +1,10 @@
 # Bin2Dec
 
-Projeto criado com fim de estudos.
+Projeto criado com fim de estudo.
 
 ## Resumo
 
-Nesse projeto criamos um app que faz a conversão de um número binário para um número em decimal.
+Nesse projeto criamos um aplicativo que faz a conversão de um número binário para um número decimal.
 
 ### Tecnologias usadas:
 
