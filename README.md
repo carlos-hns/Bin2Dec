@@ -8,10 +8,10 @@ Nesse projeto criamos um app que faz a conversão de um número binário para um
 
 ### Tecnologias usadas:
 
-- [Arquitetura MVVM] (https://developer.android.com/topic/libraries/architecture) 
-- [DataBinding] (https://developer.android.com/topic/libraries/data-binding)
-- Biblioteca para animações: [Lottie] (https://github.com/airbnb/lottie-android)
-- Fonts externas: [Reem Kufi] (https://fonts.google.com/specimen/Reem+Kufi)
+- [Arquitetura MVVM](https://developer.android.com/topic/libraries/architecture) 
+- [DataBinding](https://developer.android.com/topic/libraries/data-binding)
+- Biblioteca para animações: [Lottie](https://github.com/airbnb/lottie-android)
+- Fonts externas: [Reem Kufi](https://fonts.google.com/specimen/Reem+Kufi)
 
 # Layout
 
